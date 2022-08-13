@@ -1,6 +1,6 @@
 import React from 'react'
 import './Text.css'
-import Typical from "react-typical"
+// import Typical from "react-typical"
 import {Link} from 'react-router-dom'
 
 
